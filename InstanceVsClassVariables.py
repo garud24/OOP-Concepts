@@ -15,4 +15,4 @@ class SafeBag:
 a, b = SafeBag(), SafeBag()
 a.items.append("Apples")
 print(b.items) # This should be an empty list
-print(a.items) # Here you should see ["Apples"]
+print(a.items) # Here you should see ["Apples"]        
